@@ -1,0 +1,15 @@
+customer_id,customer_name,dob,gender,city,order_date,product_category,revenue,profit,website_visits
+101,Rahul Sharma,1998-05-21,Male,hyderabad,2025/01/12,Electronics,25000,5000,12
+102,Priya Verma,1995-09-15,Female,Mumbai,12-02-2025,Fashion,12000,2500,8
+103,Arjun Reddy,2000-11-03,Male,Bangalore,2025-03-05,Groceries,3500,500,15
+104,Sneha Patel,,Female,Delhi,2025-04-08,Electronics,45000,9000,20
+105,Karan Mehta,1997-07-18,Male,chennai,2025/05/10,Fashion,18000,3000,10
+106,Aisha Khan,1999-12-30,Female,Pune,2025-06-15,Beauty,7000,1500,9
+107,Rohit Kumar,1996-03-14,Male, Hyderabad ,2025-07-11,Electronics,55000,12000,25
+108,Neha Singh,2001-08-22,Female,Kolkata,11/08/2025,Groceries,2500,300,14
+109,Vikram Rao,1994-01-09,Male,Bangalore,2025-09-01,Fashion,22000,4000,11
+110,Anjali Das,1998-10-25,Female,Mumbai,2025-10-05,Beauty,8500,1800,13
+110,Anjali Das,1998-10-25,Female,Mumbai,2025-10-05,Beauty,8500,1800,13
+111,Ramesh Naidu,1993-02-17,Male,Chennai,2025-11-10,Electronics,999999,150000,40
+112,Pooja Iyer,2002-06-12,Female,Delhi,2025-12-15,Fashion,,2200,7
+113,Sai Teja,1999-04-28,Male,Vijayawada,2025-12-20,Groceries,4200,,5
